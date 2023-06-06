@@ -4,7 +4,7 @@
 npm install --save mysql2
 raiz 
 */
-
+<div>PAGINA TEST</div>
 
 const Squelize = require('sequelize')
 const sequelize = new Squelize('gastos_deputados', 'root', 'ruanpascoal227', {
